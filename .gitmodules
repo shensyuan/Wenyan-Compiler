@@ -1,0 +1,9 @@
+[submodule "NCKU_Compiler_HW1/lib/utf8.c"]
+	path = NCKU_Compiler_HW1/lib/utf8.c
+	url = https://github.com/zahash/utf8.c
+[submodule "NCKU_Compiler_HW2/lib/utf8.c"]
+	path = NCKU_Compiler_HW2/lib/utf8.c
+	url = https://github.com/zahash/utf8.c
+[submodule "NCKU_Compiler_HW2/lib/WJCL"]
+	path = NCKU_Compiler_HW2/lib/WJCL
+	url = https://github.com/WavJaby/WJCL

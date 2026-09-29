@@ -1,0 +1,27 @@
+# 建置產物
+build/
+cmake-build-*/
+generated/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.o
+*.obj
+*.exe
+*.app
+*.ll
+
+# 編輯器 / IDE 本機設定
+.vscode/
+.idea/
+.junie/
+*.swp
+*~
+
+# 暫存與日誌
+*.log
+*.tmp
+
+# 繳交用壓縮檔
+*.zip
